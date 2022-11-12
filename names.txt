@@ -1,3 +1,3 @@
 Hi
 
-I am learning Git and GiutHub
+I am learning Git and GitHub
